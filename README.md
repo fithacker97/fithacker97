@@ -20,7 +20,6 @@
 
 ## Reach Me At
 
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](fithacker97@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-0a66c2?style=for-the-badge&logo=phone&logoColor=white)](tel:+919736326620)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-singh9736)
 [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FitHackerr)
