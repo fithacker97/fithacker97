@@ -1,4 +1,4 @@
-# Hi there 👋 Jatin Here !!
+# 👋 Jatin Here !!
 
 ## Self-taught Engineer | Python  & GOLang | Backend | Linux | AWS  & GCP | Networking  
 
