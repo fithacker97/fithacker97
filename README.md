@@ -17,9 +17,3 @@
 ![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fithacker97&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fithacker97&layout=compact&theme=github_dark)
 
-
-## Reach Me At
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-singh9736)
-[![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FitHackerr)
