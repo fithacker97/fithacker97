@@ -2,9 +2,7 @@
 
 ## Self-taught Engineer | Python  & GOLang | Backend | Linux | AWS  & GCP | Networking  
 
-##  Skills
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python&logoColor=yellow)
+## ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python&logoColor=yellow)
 ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat&logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat&logo=amazon-aws&logoColor=orange)
 ![Networking](https://img.shields.io/badge/-Networking-0d1117?style=flat&logo=cisco&logoColor=white)
