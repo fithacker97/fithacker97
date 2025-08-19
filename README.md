@@ -1,5 +1,4 @@
-# Hi there 👋
-# i'm  JATIN SINGH 
+# Hi there 👋 Jatin Here !!
 
 ## Self-taught Engineer | Python  & GOLang | Backend | Linux | AWS  & GCP | Networking  
 
