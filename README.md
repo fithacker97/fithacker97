@@ -11,6 +11,6 @@
  ![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat&logo=gnu-bash&logoColor=white)
 
 
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fithacker97&show_icons=true&theme=github_dark)
+# ![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fithacker97&show_icons=true&theme=github_dark)
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fithacker97&layout=compact&theme=github_dark)
 
