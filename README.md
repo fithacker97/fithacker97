@@ -1,5 +1,4 @@
 ##  Hi  Jatin Here ~
-
 ## Self-taught Engineer | Python  & GOLang | Backend | Linux | AWS  & GCP | Networking  
 
  ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python&logoColor=yellow)
