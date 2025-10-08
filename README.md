@@ -9,6 +9,8 @@
  ![GCP](https://img.shields.io/badge/-GCP-0d1117?style=flat&logo=google-cloud&logoColor=skyblue)
  ![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat&logo=gnu-bash&logoColor=white)
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=fithacker97&color=33ff33&style=flat-square&label=Profile+Views)
+
 
 # ![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fithacker97&show_icons=true&theme=github_dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fithacker97&layout=compact&theme=github_dark)
 
