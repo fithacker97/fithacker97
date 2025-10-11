@@ -12,7 +12,8 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=fithacker97&color=33ff33&style=flat-square&label=Profile+Views)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fithacker97&show_icons=true&theme=highcontrast&title_color=33ff33&text_color=33ff33&icon_color=33ff33&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fithacker97&show_icons=true&theme=highcontrast&title_color=33ff33&text_color=33ff33&icon_color=33ff33&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  [![fithacker97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fithacker97&bg_color=00000000&color=33ff33&line=33ff33&point=33ff33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fithacker97&layout=compact&theme=highcontrast&title_color=33ff33&text_color=33ff33&icon_color=33ff33&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](https://streak-stats.demolab.com?user=fithacker97&theme=highcontrast&ring=33ff33&fire=33ff33&currStreakLabel=33ff33&sideNums=33ff33&sideLabels=33ff33&dates=33ff33&background=00000000&hide_border=true)](https://git.io/streak-stats)
