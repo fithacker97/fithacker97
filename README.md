@@ -1,24 +1,25 @@
 ##  Hi  Jatin Here ~
 ## Self-taught Engineer | Python  & GOLang | Backend | Linux | AWS  & GCP | Networking 
 
-![Python](https://img.shields.io/badge/Python-33FF33?style=for-the-badge&logo=python&logoColor=000000&labelColor=0D0D0D)
-![Go](https://img.shields.io/badge/Go-33FF33?style=for-the-badge&logo=go&logoColor=000000&labelColor=0D0D0D)
-![Linux](https://img.shields.io/badge/Linux-33FF33?style=for-the-badge&logo=linux&logoColor=000000&labelColor=0D0D0D)
-![AWS](https://img.shields.io/badge/AWS-33FF33?style=for-the-badge&logo=amazonaws&logoColor=000000&labelColor=0D0D0D)
-![GCP](https://img.shields.io/badge/GCP-33FF33?style=for-the-badge&logo=googlecloud&logoColor=000000&labelColor=0D0D0D)
-![HTML5](https://img.shields.io/badge/HTML5-33FF33?style=for-the-badge&logo=html5&logoColor=000000&labelColor=0D0D0D)
-![CSS3](https://img.shields.io/badge/CSS3-33FF33?style=for-the-badge&logo=css3&logoColor=000000&labelColor=0D0D0D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-33FF33?style=for-the-badge&logo=tailwindcss&logoColor=000000&labelColor=0D0D0D)
-![JavaScript](https://img.shields.io/badge/JavaScript-33FF33?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=0D0D0D)
-![Docker](https://img.shields.io/badge/Docker-33FF33?style=for-the-badge&logo=docker&logoColor=000000&labelColor=0D0D0D)
-![Git](https://img.shields.io/badge/Git-33FF33?style=for-the-badge&logo=git&logoColor=000000&labelColor=0D0D0D)
-![GitHub](https://img.shields.io/badge/GitHub-33FF33?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D0D0D)
-![System Design](https://img.shields.io/badge/System%20Design-33FF33?style=for-the-badge&logo=diagram&logoColor=000000&labelColor=0D0D0D)
-![Backend](https://img.shields.io/badge/Backend-33FF33?style=for-the-badge&logo=server&logoColor=000000&labelColor=0D0D0D)
-![n8n](https://img.shields.io/badge/n8n-33FF33?style=for-the-badge&logo=n8n&logoColor=000000&labelColor=0D0D0D)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-33FF33?style=for-the-badge&logo=kubernetes&logoColor=000000&labelColor=0D0D0D)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-33FF33?style=for-the-badge&logo=kalilinux&logoColor=000000&labelColor=0D0D0D)
-![CCNA](https://img.shields.io/badge/CCNA-33FF33?style=for-the-badge&logo=cisco&logoColor=000000&labelColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=33FF33)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=33FF33)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=33FF33)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=33FF33)
+![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=33FF33)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=33FF33)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=33FF33)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=33FF33)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=33FF33)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=33FF33)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=33FF33)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=33FF33)
+![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=diagram&logoColor=33FF33)
+![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=server&logoColor=33FF33)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=33FF33)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=33FF33)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=33FF33)
+![CCNA](https://img.shields.io/badge/CCNA-000000?style=for-the-badge&logo=cisco&logoColor=33FF33)
+
 
 
 
