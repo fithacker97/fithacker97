@@ -8,7 +8,6 @@
  ![Golang](https://img.shields.io/badge/-Golang-0d1117?style=flat&logo=go&logoColor=cyan)
  ![GCP](https://img.shields.io/badge/-GCP-0d1117?style=flat&logo=google-cloud&logoColor=skyblue)
  ![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat&logo=gnu-bash&logoColor=white)
-
  ![Profile Views](https://komarev.com/ghpvc/?username=fithacker97&color=33ff33&style=flat-square&label=Profile+Views)
 
 
