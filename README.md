@@ -1,5 +1,5 @@
 ##  Hi  Jatin Here ~
-## Self-taught Engineer | Python  & NodeJs | Backend | Linux | AWS  & GCP | Networking 
+## Self-taught Engineer | Python  & NodeJs | Backend | Linux | AWS  & GCP | Infra
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=33FF33)
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=33FF33)
