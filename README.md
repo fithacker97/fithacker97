@@ -23,8 +23,7 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=33FF33)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fithacker97&show_icons=true&theme=highcontrast&title_color=33ff33&text_color=33ff33&icon_color=33ff33&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fithacker97&layout=compact&theme=highcontrast&title_color=33ff33&text_color=33ff33&icon_color=33ff33&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![fithacker97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fithacker97&bg_color=00000000&color=33ff33&line=33ff33&point=33ff33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
