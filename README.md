@@ -25,7 +25,3 @@
 
 
 
-[![fithacker97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fithacker97&bg_color=00000000&color=33ff33&line=33ff33&point=33ff33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
